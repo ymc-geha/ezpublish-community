@@ -23,10 +23,10 @@
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0",
         "tedivm/stash-bundle": "0.4.*",
-        "ezsystems/ezpublish-kernel": "dev-master",
+        "ezsystems/ezpublish-kernel": "dev-ezp-23949-simple-platform-installer",
         "ezsystems/platform-ui-bundle": "dev-master",
         "ezsystems/platform-ui-assets-bundle": "~0.1",
-        "ezsystems/demobundle": "dev-master",
+        "ezsystems/demobundle": "dev-ezp-23949-simple-platform-installer",
         "ezsystems/comments-bundle": "dev-master",
         "egulias/listeners-debug-command-bundle": "~1.9",
         "white-october/pagerfanta-bundle": "1.0.*",
@@ -45,7 +45,7 @@
         "behat/mink-selenium-driver": "*",
         "behat/mink-sahi-driver": "*",
         "behat/mink-selenium2-driver": "*",
-        "ezsystems/behatbundle": "@dev"
+        "ezsystems/behatbundle": "dev-ezp-23949-simple-platform-installer"
     },
     "suggest": {
         "ezsystems/legacy-bridge": "Provides the full legacy backoffice and legacy features"
